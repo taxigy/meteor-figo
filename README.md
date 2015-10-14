@@ -1,2 +1,5 @@
 # meteor-figo
-Figo API integration package for Meteor
+
+Figo API integration package for Meteor.
+
+Soon.
